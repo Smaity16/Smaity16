@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data-driven projects, especially those related to sales analysis, forecasting, and supply chain optimization.
 - 📫 How to reach me maitysantanu014@gmail.com | [LinkedIn](https://www.linkedin.com/in/santanu-maity1)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I secured a national finalist position in a Data Sphere Analysis competition, forecasting Ad impressions using ARIMA modeling!
+- ⚡ Achievement: I secured a national finalist position in a Data Sphere Analysis competition, forecasting Ad impressions using ARIMA modeling!
 
 <!---
 Smaity16/Smaity16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
